@@ -3,11 +3,12 @@
 
 Rencana Topik Riset
 
+<p>Pengolahan Citra Digital untuk Pengenalan Motif Batik yang melibatkan pengembangan algoritma pengolahan citra untuk mengenali dan mengklasifikasikan motif batik berdasarkan pola, warna, serta arti dari pola batik, yang bisa digunakan untuk katalogisasi di keyna galeri.</p>
 
 Studi Literatur
 
 | Nomor | Judul Paper | Penulis | Jenis Penelitian |
-|:---:|    ---     |  :---:  | :---:|
+|:-----:|    ---     |  :---:  | :---:|
 |1| [Implementasi Data Mining dengan Algoritma Naïve Bayes Untuk Klasifikasi Kelayakan Penerima Bantuan Sembako](https://www.ejurnal.stmik-budidarma.ac.id/index.php/jurikom/article/view/3655)|Amat Damuri, Umbar Riyanto, Hengki Rusdianto, Mohammad Aminudin|Penelitian Terapan|
 |2|[Penerapan Algoritma Naïve Bayes Untuk Klasifikasi Penyakit Diabetes Mellitus](https://jurnal.tau.ac.id/index.php/siskom-kb/article/view/169)|Achmad Ridwan|Penelitian Terapan|
 |3| [KLASIFIKASI PENYAKIT JANTUNG DENGAN MENGGUNAKAN ALGORITMA C4.5](https://journal.lppmunindra.ac.id/index.php/STRING/article/view/12012)|Arni Sepharni, Iwansyah Edo Hendrawan, Chaerur Rozikin|Penelitian Ekperimental|
