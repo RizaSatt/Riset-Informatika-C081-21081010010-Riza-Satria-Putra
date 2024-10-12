@@ -1,5 +1,8 @@
 # Riset-Informatika
 
+Nama: Riza Satria Putra
+NPM : 21081010010
+Kelas: Riset IT C081
 
 Rencana Topik Riset
 
