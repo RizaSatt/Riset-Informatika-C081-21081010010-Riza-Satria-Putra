@@ -1,12 +1,13 @@
 # Riset-Informatika
 
-Nama: Riza Satria Putra
-NPM : 21081010010
-Kelas: Riset IT C081
+Nama: Riza Satria Putra <br>
+NPM : 21081010010 <br>
+Kelas: Riset IT C081 <br>
 
 Rencana Topik Riset
 
-<p>Pengolahan Citra Digital untuk Pengenalan Motif Batik yang melibatkan pengembangan algoritma pengolahan citra untuk mengenali dan mengklasifikasikan motif batik berdasarkan pola, warna, serta arti dari pola batik, yang bisa digunakan untuk katalogisasi di keyna galeri.</p>
+<p>Pengolahan Citra Digital untuk Pengenalan Motif Batik yang melibatkan pengembangan algoritma pengolahan citra untuk mengenali dan mengklasifikasikan motif batik berdasarkan pola, warna, serta arti dari pola batik, yang bisa digunakan untuk katalogisasi di keyna galeri.<br>
+Lokasi Penelitian: Keyna Galeri</p>
 
 Studi Literatur
 
