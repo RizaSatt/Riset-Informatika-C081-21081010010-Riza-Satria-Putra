@@ -6,7 +6,7 @@ Kelas: Riset IT C081 <br>
 
 Rencana Topik Riset
 
-<p>Pengolahan Citra Digital untuk Pengenalan Motif Batik yang melibatkan pengembangan algoritma pengolahan citra untuk mengenali dan mengklasifikasikan motif batik berdasarkan pola, warna, serta arti dari pola batik, guna mengetahui proses pengolahan digital apa yang berpengeruh dalam kinerja algoritma CNN.<br>
+<p>Pengolahan Citra Digital untuk Pengenalan Motif Batik yang melibatkan pengembangan algoritma pengolahan citra untuk mengenali dan mengklasifikasikan motif batik berdasarkan pola, warna, serta arti dari pola batik, guna mengetahui proses pengolahan digital apa yang berpengaruh dalam kinerja algoritma CNN.<br>
 Lokasi Penelitian dan Pengambilan DataSet: Keyna Galeri</p>
 
 Studi Literatur
