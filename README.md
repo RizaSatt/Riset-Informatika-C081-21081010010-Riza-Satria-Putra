@@ -6,8 +6,8 @@ Kelas: Riset IT C081 <br>
 
 Rencana Topik Riset
 
-<p>Pengolahan Citra Digital untuk Pengenalan Motif Batik yang melibatkan pengembangan algoritma pengolahan citra untuk mengenali dan mengklasifikasikan motif batik berdasarkan pola, warna, serta arti dari pola batik, yang bisa digunakan untuk katalogisasi di keyna galeri.<br>
-Lokasi Penelitian: Keyna Galeri</p>
+<p>Pengolahan Citra Digital untuk Pengenalan Motif Batik yang melibatkan pengembangan algoritma pengolahan citra untuk mengenali dan mengklasifikasikan motif batik berdasarkan pola, warna, serta arti dari pola batik, guna mengetahui proses pengolahan digital apa yang berpengeruh dalam kinerja algoritma CNN.<br>
+Lokasi Penelitian dan Pengambilan DataSet: Keyna Galeri</p>
 
 Studi Literatur
 
@@ -20,4 +20,5 @@ Studi Literatur
 |5|[Klasifikasi Penyakit Tanaman Tomat Menggunakan Metode Convolutional Neural Network (CNN)](https://www.ejournal.umsorong.ac.id/index.php/insect/article/view/2356)|Rendra Soekarta, Nirwana Nurdjan, Ardian Syah|Penelitian Ekperimental|
 |6|[A CNN-RNN Framework for Crop Yield Prediction](https://www.frontiersin.org/journals/plant-science/articles/10.3389/fpls.2019.01750/full)|Saeed Khaki, Lizh Wang, Sotirios V. Archontoulis|Penelitian Ekperimental|
 |7|[KLASIFIKASI PENGENALAN BUAH MENGGUNAKAN ALGORITMA NAIVE BAIYES](https://jurnal.instiki.ac.id/index.php/jurnalresistor/article/view/434)|Arif Saputra|Penelitian Experimental|
+|8|[Convolutional Neural Networks for Classification Motives and the Effect of Image Dimensions](https://jurnal.iaii.or.id/index.php/RESTI/article/view/5623)|Siti Aisyah , Rini Astuti , Fadhil M Basysyar, Odi Nurdiawan , Irfan Ali|Penelitian Experimental|
 
