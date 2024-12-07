@@ -4,7 +4,7 @@ Nama: Riza Satria Putra <br>
 NPM : 21081010010 <br>
 Kelas: Riset IT C081 <br>
 
-link PPT presentasi : https://www.canva.com/design/DAGXboVuTrc/DNdxrdeUlYIxfzAWvuLA8w/edit?utm_content=DAGXboVuTrc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton (Telah dipresentasikan pada tanggal 25 November 2024 )
+link PPT presentasi : https://www.canva.com/design/DAGXboVuTrc/DNdxrdeUlYIxfzAWvuLA8w/edit?utm_content=DAGXboVuTrc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton (Telah dipresentasikan pada tanggal 25 November 2024 ) <br>
 Rencana Topik Riset
 
 <p>Pengolahan Citra Digital untuk Pengenalan Motif Batik yang melibatkan pengembangan algoritma pengolahan citra untuk mengenali dan mengklasifikasikan motif batik berdasarkan pola dan warna, guna mengetahui proses pengolahan digital apa yang berpengaruh dalam kinerja algoritma CNN.<br>
