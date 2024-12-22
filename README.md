@@ -8,7 +8,7 @@ link PPT presentasi : https://www.canva.com/design/DAGXboVuTrc/DNdxrdeUlYIxfzAWv
 Rencana Topik Riset
 
 <p>Pengolahan Citra Digital untuk Pengenalan Motif Batik yang melibatkan pengembangan algoritma pengolahan citra untuk mengenali dan mengklasifikasikan motif batik berdasarkan pola dan warna, guna mengetahui proses pengolahan digital apa yang berpengaruh dalam kinerja algoritma CNN.<br>
-Lokasi Penelitian dan Pengambilan DataSet: Keyna Galeri</p>
+Lokasi Penelitian dan Pengambilan DataSet: Galeri Seni Di Daerah Jombang</p>
 
 Studi Literatur
 
